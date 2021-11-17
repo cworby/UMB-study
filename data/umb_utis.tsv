@@ -1,0 +1,25 @@
+pat	date	diagnosed_utis	ecoli_utis	urineID	stool_id	out_samp	bac_reads_out	dominant_species_out	ecoli_RA_out	straingst_out	raw_samp	bac_reads_raw	dominant_species_raw	ecoli_RA_out.1	straingst_raw	CFU_outgrowth
+5	2016-03-21	1	0	05_05.1	05_05.1		NA	NA	0		UMB05_05.1urp	68190	Lactobacillus iners	0		0
+5	2016-07-19	1	1	05_09.1	05_09.1	UMB05_09.1uop	2044663	Escherichia coli	90.52897	S42	UMB05_09.1urp	411506	Escherichia coli	90.5544	S42	840000
+8	2015-10-16	1	1	08_00.1	NA		NA	NA	0		UMB08_00.1urt	0	NA	NA	clone_D_i14,1190	4500
+8	2015-12-09	1	1	08_02.1	NA	UMB08_02.1uot	1618650	Escherichia coli	95.85073	clone_D_i14	UMB08_02.1urt	810	Escherichia unclassified	0	clone_D_i14,118UI	16000
+8	2016-09-03	0	0	NA	NA		NA	NA	0			NA	NA	0		NA
+11	2016-02-19	1	1	11_03.1	NA	UMB11_03.1uot	4304145	Escherichia coli	97.764050223595	1190	UMB11_03.1urt	6747	Propionibacterium acnes	26.9944787352617	1190,clone_D_i14	350000
+12	2015-12-11	1	1	12_01.1	12_01.1	UMB12_01.1uot	1473268	Escherichia coli	99.1206424595036	LF82	UMB12_01.1urt	4457	Escherichia unclassified	21.4418	LF82	80000
+12	2016-07-05	0	0	NA	NA		NA	NA	0			NA	NA	0		NA
+12	2016-09-09	0	0	NA	NA		NA	NA	0			NA	NA	0		NA
+15	2015-12-18	1	1	15_01.1	15_01.1	UMB15_01.1uot	6932770	Escherichia coli	99.92549	D5	UMB15_01.1urt	1632	Escherichia coli	100	MCJCHV-1,118UI	25000
+18	2016-02-10	1	1	18_00	18_00	UMB18_00uot	3041208	Escherichia coli	100	118UI	UMB18_00urt	104981	Escherichia coli	91.56614	118UI	2.6e+07
+18	2016-03-22	1	0	18_01.1	NA		NA	NA	0		UMB18_01.1urp	0	NA	NA		0
+18	2016-09-28	0	0	NA	NA		NA	NA	0			NA	NA	0		NA
+18	2016-11-29	1	1	18_09.1	18_09.1	UMB18_09.1uop	2400271	Escherichia coli	91.1281408871859	PA45B	UMB18_09.1urp	56722	Gardnerella vaginalis	0		1480
+20	2016-02-29	1	1	20_00.1	20_00.1	UMB20_00.1uop	1654305	Escherichia coli	95.88371	ST2747,CFSAN018748	UMB20_00.1urp	782	Lactobacillus crispatus	0		28000
+20	2016-04-12	1	0	20_02.1	20_02.1		NA	NA	0		UMB20_02.1urp	49960	Staphylococcus saprophyticus	0		0
+20	2016-06-27	1	1	20_04.1	20_04.1	UMB20_04.1uop	2727597	Escherichia coli	96.56269	118UI	UMB20_04.1urp	0	NA	NA		710
+20	2016-11-22	1	1	20_09.1	NA	UMB20_09.1uop	1314368	Escherichia coli	80.69654	UM146,1105	UMB20_09.1urp	100	Lactobacillus crispatus	0		260
+23	2016-04-12	1	1	23_01.1	NA	UMB23_01.1uop	2888044	Escherichia coli	96.42603	clone_D_i14	UMB23_01.1urp	176051	Escherichia coli	85.57229	clone_D_i14	190000
+23	2016-05-31	0	0	NA	NA		NA	NA	0			NA	NA	0		NA
+23	2016-08-29	1	0	23_05.1	NA		NA	NA	0		UMB23_05.1urp	88481	Atopobium vaginae	0		0
+23	2016-10-27	1	1	23_07.1	23_07.1		NA	NA	0		UMB23_07.1urp	64492	Escherichia coli	98.88521	Santai,EC1515	660000
+24	2016-12-17	1	1	24_09.1	24_09.1	UMB24_09.1uop	1763992	Escherichia coli	100	clone_D_i14		NA	NA	0		1070000
+30	2016-05-19	1	0	30_00	NA	UMB30_00uop	3279206	Klebsiella pneumoniae	1.69307	MCJCHV-1	UMB30_00urp	155698	Lactobacillus crispatus	0		660
